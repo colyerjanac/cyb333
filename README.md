@@ -2,4 +2,8 @@
 CYB333 Final Project
 Jana Colyer
 
-Python Script: Secure Password Management using Passlib - Strong Password Criteria, Hashing, and Verification
+Python Password Management with Passlib: Strong Criteria, Hashing, Verification
+
+
+
+
